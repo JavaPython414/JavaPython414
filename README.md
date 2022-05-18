@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JavaPython414
+- 👋 Hi, I’m @JavaPython414. I am an Active Threat Hunter. Expert in APTs and behavioral patterns.
 - 👀 I’m interested in information security, Ethical Hacking, Penetration Testing, and Log Analysis.
 - 🌱 I’m currently learning Exploitation Engineering, Cloud and Applicatoin Security.
 - 💞️ I’m looking for a position as a teir II security analyst or engineer. 
